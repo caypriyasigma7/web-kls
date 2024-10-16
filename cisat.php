@@ -56,11 +56,11 @@
             <!-- Jurusan 1 -->
             <div class="col-md-3">
                 <div class="card jurusan-card mb-4">
-                    <img src="sija.jpeg" class="card-img-top" alt="Sistem Informasi Jaringan">
+                    <img src="sija.jpeg" class="card-img-top" alt="Sistem Informasi Jaringan dan aplikasi">
                     <div class="card-body">
-                        <h5 class="card-title">Sistem Informasi Jaringan (SIJA)</h5>
-                        <p class="card-text">Mempelajari sistem informasi,jaringan dan aplikasi, serta cara mengelola dan menganalisis data secara efektif.</p>
-                        <a href="sija.html" class="btn btn-primary">Detail Jurusan</a>
+                        <h5 class="card-title">Sistem Informasi Jaringan dan aplikasi (sija)</h5>
+                        <p class="card-text">Mempelajari sistem informasi,jaringan dan aplikasi, serta cara mengelola.</p>
+                        <a href="sija.php" class="btn btn-primary">Detail Jurusan</a>
                     </div>
                 </div>
             </div>
@@ -69,9 +69,10 @@
                 <div class="card jurusan-card mb-4">
                     <img src="tmi.jpeg" class="card-img-top" alt="Teknik Mekatronika">
                     <div class="card-body">
-                        <h5 class="card-title">Teknik Mekanik industri (TMI)</h5>
+                        <h5 class="card-title">Teknik Mekanik industri</h5>
+                        <h6 class="card-title">(TMI)</h6>
                         <p class="card-text">Menggabungkan teknik mesin industri, dan mengelola mesin industri yaitu mesin butbut.</p>
-                        <a href="tmi.html" class="btn btn-primary">Detail Jurusan</a>
+                        <a href="tmi.php" class="btn btn-primary">Detail Jurusan</a>
                     </div>
                 </div>
             </div>
@@ -80,9 +81,10 @@
                 <div class="card jurusan-card mb-4">
                     <img src="bank mini.jpeg" class="card-img-top" alt="Perbankan Syariah">
                     <div class="card-body">
-                        <h5 class="card-title">Perbankan Syariah (PBS)</h5>
+                        <h5 class="card-title">Perbankan Syariah</h5>
+                        <h6 class="card-title">(PBS)</h6>
                         <p class="card-text">Belajar tentang sistem perbankan syariah, pengelolaan keuangan, dan produk-produk perbankan.</p>
-                        <a href="pbs.html" class="btn btn-primary">Detail Jurusan</a>
+                        <a href="pbs.php" class="btn btn-primary">Detail Jurusan</a>
                     </div>
                 </div>
             </div>
@@ -91,9 +93,10 @@
                 <div class="card jurusan-card mb-4">
                     <img src="menlog.jpeg" class="card-img-top" alt="Manajemen Logistik">
                     <div class="card-body">
-                        <h5 class="card-title">Manajemen Logistik (Menlog)</h5>
+                        <h5 class="card-title">Manajemen Logistik</h5>
+                        <h6 class="card-title">(MENLOG)</h6>
                         <p class="card-text">Mempelajari pengelolaan rantai pasokan, distribusi, dan logistik untuk mendukung operasi bisnis.</p>
-                        <a href="menlog.html" class="btn btn-primary">Detail Jurusan</a>
+                        <a href="menlog.php" class="btn btn-primary">Detail Jurusan</a>
                     </div>
                 </div>
             </div>
@@ -105,10 +108,10 @@
         <h2 class="text-center mb-4">Galeri Kegiatan</h2>
         <div class="row">
             <div class="col-md-4">
-                <img src="https://via.placeholder.com/400x300" class="img-fluid" alt="Kegiatan 1">
+                <img src="maulid.jpg" class="img-fluid" alt="Kegiatan 1">
             </div>
             <div class="col-md-4">
-                <img src="https://via.placeholder.com/400x300" class="img-fluid" alt="Kegiatan 2">
+                <img src="ujian.jpg" class="img-fluid" alt="Kegiatan 2">
             </div>
             <div class="col-md-4">
                 <img src="https://via.placeholder.com/400x300" class="img-fluid" alt="Kegiatan 3">
@@ -127,7 +130,7 @@
     <!-- Footer -->
     <footer class="text-center">
         <div class="container">
-            <p>&copy; 2024 SMK Cibitung 1. All rights reserved.</p>
+            <p>&copy; 2024 SMK Cibitung 1.</p>
         </div>
     </footer>
 

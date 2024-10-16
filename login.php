@@ -6,7 +6,7 @@ if (isset($_POST['submit'])) {
     $password = $_POST['password'];
 
     // Periksa apakah username dan password sesuai
-    if ($username == "cahya" && $password == "1234") {
+    if ($username == "siswa" && $password == "1234") {
         // Redirect ke cisat.php jika login berhasil
         header("Location: cisat.php");
         exit;
