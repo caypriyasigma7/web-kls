@@ -105,16 +105,16 @@
 
     <!-- Galeri -->
     <section class="section" id="galeri">
-        <h2 class="text-center mb-4">Galeri Kegiatan</h2>
+        <h2 class="text-center mb-4">Galeri Kegiatan ujian</h2>
         <div class="row">
             <div class="col-md-4">
-                <img src="maulid.jpg" class="img-fluid" alt="Kegiatan 1">
+                <img src="ujian.jpg" class="img-fluid" alt="Kegiatan 1">
             </div>
             <div class="col-md-4">
                 <img src="ujian.jpg" class="img-fluid" alt="Kegiatan 2">
             </div>
             <div class="col-md-4">
-                <img src="https://via.placeholder.com/400x300" class="img-fluid" alt="Kegiatan 3">
+                <img src="ujian.jpg" class="img-fluid" alt="Kegiatan 3">
             </div>
         </div>
     </section>
